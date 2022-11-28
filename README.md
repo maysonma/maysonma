@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 -->
 
 ### 📈 GitHub Stats 
-![maysonma's github stats](https://github-readme-stats.vercel.app/api?username=maysonma&count_private=true&show_icons=true&hide_border=true)
+[![maysonma's GitHub stats](https://github-readme-stats.vercel.app/api?username=maysonma&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maysonma&langs_count=5&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
