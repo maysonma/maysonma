@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- :mortar_board: I am a Ph.D. student at Purdue University, Digital Twin Lab.
-- :telescope: My research focuses on autonomous driving and digital twin.
-- :dancers: I'm always seeking collaboration. You can find more about me on [my website](https://maysonma.github.io/).
+- 🌱 I am a Ph.D. student at Purdue University, Digital Twin Lab.
+- 🔭 My research focuses on autonomous driving and digital twin.
+- 👯 I'm always seeking collaboration. You can find more about me on [my website](https://maysonma.github.io/).
 
 
 <!-- 
@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ### 📈 GitHub Stats 
 [![maysonma's GitHub stats](https://github-readme-stats.vercel.app/api?username=maysonma&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maysonma&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+-->
