@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I am a Ph.D. student at Purdue University, Digital Twin Lab.
-- 🔭 My research focuses on autonomous driving and digital twin.
-- 👯 I'm always seeking collaboration. You can find more about me on [my website](https://maysonma.github.io/).
+- 🔭 I am a Ph.D. student at Purdue University.
+- 👯 I'm always seeking collaboration.
+- 📫 You can find more about me on [my website](https://maysonma.github.io/).
 
 
 <!-- 
